@@ -1,0 +1,111 @@
+GoLang Um Visão Geral Na WEB
+IFGOIANO
+06 Jan 2016
+
+Itacir Ferreira Pompeu
+itacir@hotmail.com
+
+
+* O Que GO é?
+
+Go é uma linguagem de programação open source,
+ela torna fácil a construção de software,
+confiável e eficiente.
+
+GO é escrito em GO, tem tipagem estatica.
+
+GO é OOP e funcional.
+
+GO NÂO possui herança.
+
+GO pode ser compilado, para Linux, Mac e Windows
+
+GO é rapido como Java e C++, flexivel com C
+
+.link http://golang.org golang.org
+
+* GO :P
+
+.image src/img/goasian.jpg
+
+* O que Mais Tem ?
+
+Go Lang proporciona comodismo
+
+Ele tem varias bibliotecas para web
+
+Isso deixa muito mais simples
+
+Todo seu código é testado com sua api
+nativa de test
+
+.image src/img/gogoogle.jpg 300 350
+
+
+* O Hello World
+
+.play src/hello.go
+
+.image src/img/gopher.png
+
+* Hello Word Web
+
+.play src/web.go
+
+
+* Struct e Tipos
+
+.play src/struct.go
+
+* Laços
+
+GO possui apenas for
+
+.play src/for.go
+
+
+* Condicionais
+
+.play src/if.go
+
+* Aplicação CMS GO Pure
+
+Numero de Linhas  :  1166
+Numero de Package :  5 
+
+.image  src/img/eusourica.gif 300 300
+
+* Aplicação CMS GO Pure 1
+
+Main
+
+.code src/cms_go/main.go
+
+* Aplicação CMS GO Pure 2
+
+Router
+
+.code src/cms_go/router.go
+
+* Aplicação CMS GO Pure 3
+
+Controller
+
+.code src/cms_go/controller.go
+
+* Aplicação CMS GO Revel 1
+
+.code src/cms_revel/controller.go
+
+* Aplicação CMS GO Revel 2
+
+.code src/cms_revel/login.go
+
+* Aplicação CMS GO Revel 3
+
+.image src/img/router.png 500 800
+
+* See Master Linus, Its time
+
+.image src/img/linus.jpg
+
